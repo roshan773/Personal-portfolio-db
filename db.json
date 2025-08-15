@@ -2,20 +2,35 @@
   "testimonials": [
     {
       "name": "Logo Lab Technology",
-      "message": "Working with Roshan on our Logo Lab Technology website was an excellent experience. He created a sleek, professional, and fully responsive site that exceeded our expectations. His creativity, technical skills, and dedication made the entire process smooth and efficient. Highly recommended for quality web development! 🚀",
+      "role": "Founder, Logo Lab Technology",
+      "project": "Business Website for Graphic & Branding Services",
+      "message": "Roshan understood exactly what our brand needed. The website he built is clean, professional, and highlights our work beautifully. He was patient with revisions, offered valuable suggestions, and delivered on time. The end result speaks for itself — our online presence has never looked better.",
       "avatar": "https://logolabtechnology.netlify.app/images/logo.jpeg",
+      "rating": 5,
+      "date": "Feb 2025",
+      "link": "https://logolabtechnology.netlify.app/",
       "id": "1"
     },
     {
-      "name": "Wegram Designs",
-      "message": "Working with Roshan on our Wedgram Designs website was a fantastic experience. He delivered a visually stunning, user-friendly, and highly responsive site that perfectly represents our brand. His professionalism, creativity, and attention to detail made the process seamless. Highly recommended!",
+      "name": "WedGram Designs",
+      "role": "Owner, WedGram Designs",
+      "project": "Custom Platform for Wedding Invitation Videos",
+      "message": "From day one, Roshan brought fresh ideas to the table. He didn’t just follow instructions — he improved them. The website is visually stunning, easy for our clients to navigate, and works smoothly across devices. We’ve already seen an increase in inquiries thanks to the new design.",
       "avatar": "https://wedgramdesigns.vercel.app/Image/logo.jpeg",
+      "rating": 5,
+      "date": "Mar 2025",
+      "link": "https://wedgramdesigns.vercel.app/",
       "id": "2"
     },
     {
-      "name": "Chatan borse",
-      "message": "Working with Roshan was an awesome experience. He really understood my vision and turned it into a modern, clean, and responsive portfolio that reflects my style perfectly. He’s super creative, easy to talk to, and handled everything really smoothly. I’m honestly very happy with how it turned out — it feels like my work finally has the perfect home. Would definitely recommend him!",
+      "name": "Chatan Borse",
+      "role": "Photographer & Portfolio Owner",
+      "project": "Personal Photography Portfolio",
+      "message": "Roshan took my scattered ideas and turned them into a portfolio that feels uniquely mine. The layout, the speed, and the mobile experience are all spot on. Communication was smooth, deadlines were respected, and the final result has helped me get more client interest.",
       "avatar": "https://raghupatilportfolio.netlify.app/images/fevlicon.png",
+      "rating": 5,
+      "date": "Apr 2025",
+      "link": "https://raghupatilportfolio.netlify.app/",
       "id": "3"
     }
   ]
